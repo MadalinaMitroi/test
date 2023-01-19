@@ -1,2 +1,2 @@
-nested_dir/*.py @MadalinaMitroi
+*/nested_dir/*.py @MadalinaMitroi
 
